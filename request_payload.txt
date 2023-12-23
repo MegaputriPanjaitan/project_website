@@ -1,0 +1,6 @@
+Array
+(
+    [idb] => ALG009
+    [user_id] => 8
+    [jumlah] => 1
+)
